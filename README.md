@@ -13,7 +13,7 @@ Der Kettenstrang wird im 3D-Drucker aus PLA gedruckt. Als Verbinger zwischen den
 ### Fahrzeugwanne
 Die Fahrzeugwanne dient der Aufnahme der Laufräder und der Antriebs-Servos. Sie wird so gestaltet sein, dass sie möglichst viel Bodenfreiheit und eine Möglichkeit der Kettenspannung bieten wird.
 ### Steuerung
-Gesteuert wird der Rover mittels einer handelsüblichen Funkfernsteuerung mit 2,4 GHz-Technologie. In diesem speziellen Fall wird ein Exemplar der Firma FrySky (Taranis) zum EInsatz kommen. Diese Fernsteuerung bietet die Möglichkeit, die eingesetzte Open-Sorce Firmware eigenständig upzudaten und bietet umfangreiche Möglichkeiten der eingenen Programmierung. Zudem sind sehr günstige Miniatur-Empfänger in Briefmarken-Größe verfügbar.
+Gesteuert wird der Rover mittels einer handelsüblichen Funkfernsteuerung mit 2,4 GHz-Technologie. In diesem speziellen Fall wird ein Exemplar der Firma FrySky (Taranis) zum Einsatz kommen. Diese Fernsteuerung bietet die Möglichkeit, die eingesetzte Open-Sorce Firmware eigenständig upzudaten und bietet umfangreiche Möglichkeiten der eingenen Programmierung. Zudem sind sehr günstige Miniatur-Empfänger in Briefmarken-Größe verfügbar.
 ### Stromversorgung
 
 
