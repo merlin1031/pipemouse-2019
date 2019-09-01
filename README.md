@@ -3,7 +3,10 @@ Tiny FPV Rover for Pipes
 Was ist "PipeMouse 2019"? im Prinzip ist das ein kleiner FPV-Rover mit Kettenantrieb, der klein genug ist um in Röhren oder Schächten bewegt werden zu können. Durch den Antrieb mittels Ketten soll es den Rover möglich sein, auch über kleine Hindernisse oder Absätze zu fahren. Gesteuert wird das Modell mit einer handelsüblichen 2,4 GHz Fernsteuerung. Die Bildübertragung erfolgt über eine Miniatur-FPV-Kamera mit 5,8 GHz Funkübertragung.
 
 ## Idee und Konzept
-![PipeMouse 2019](/images/pipemouse_Kettenrad_02.png)
+![PipeMouse 2019 - Einzelnes Kettenglied](/images/pipemouse_Kettenglied_01.png)
+![PipeMouse 2019 - Kettenrad](/images/pipemouse_Kettenrad_02.png)
+![PipeMouse 2019 - Laufrad zur Unterstüzung der Laufkette](images\pipemouse_Kettenrad_02.png)
+![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](images\pipemouse_Kugellager8x3x4_01.png)
 
 ## Komponenten und Bauteile
 ### Antrieb
@@ -15,7 +18,6 @@ Die Fahrzeugwanne dient der Aufnahme der Laufräder und der Antriebs-Servos. Sie
 ### Steuerung
 Gesteuert wird der Rover mittels einer handelsüblichen Funkfernsteuerung mit 2,4 GHz-Technologie. In diesem speziellen Fall wird ein Exemplar der Firma FrySky (Taranis) zum Einsatz kommen. Diese Fernsteuerung bietet die Möglichkeit, die eingesetzte Open-Sorce Firmware eigenständig upzudaten und bietet umfangreiche Möglichkeiten der eingenen Programmierung. Zudem sind sehr günstige Miniatur-Empfänger in Briefmarken-Größe verfügbar.
 ### Stromversorgung
-
-
+Als Stromquelle dient dem Rover ein 2S 450mAh Lipo-Akku, der aus der Tiny Whoop Copter Szene stammt. Der Vorteil dieses Akkus besteht darin, das die Einzelzellen recht schmal und klein gebaut sind und dadurch sehr wenig Platz im Rover benötigen.
 
 ## weitere Infos
