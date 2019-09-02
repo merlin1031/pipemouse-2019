@@ -13,6 +13,9 @@ Was ist "PipeMouse 2019"? im Prinzip ist das ein kleiner FPV-Rover mit Kettenant
 Der Antrieb erfolgt durch zwei auf 360°-Betrieb umgebaute Mini-Servos der 8g-Klasse. Dadurch wird kein besonderer ESC für die Steuerung des Rovers benötigt. Die Steuerung von linker und rechter Kettenseite kann über einem in der Fernsteuerung progammierten Mischer erfolgen.
 ### Kettenstrang
 Der Kettenstrang wird im 3D-Drucker aus PLA gedruckt. Als Verbinger zwischen den einzelnen Kettengliedern kommen PLA-Reste mit einem Durchmesser von 1,75mm zum Einsatz. Widerhaken auf der Lauffläche den Kettengliedern ermöglichen einen sicheren Vortrieb auf rauhen Untergründen, oder an steilen Absätzen. Auf sehr glatten Untergründen werden sicherlich Probleme mit dem Vortrieb auftreten, was aber vernachlässigbar sein dürfte, da in der Wettbewerbs-Arena geeignete Werkstoffe als Fahruntergrund vorhanden sein werden.
+![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_01.png)
+![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_02.png)
+![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_03.png)
 ### Fahrzeugwanne
 Die Fahrzeugwanne dient der Aufnahme der Laufräder und der Antriebs-Servos. Sie wird so gestaltet sein, dass sie möglichst viel Bodenfreiheit und eine Möglichkeit der Kettenspannung bieten wird.
 ### Steuerung
