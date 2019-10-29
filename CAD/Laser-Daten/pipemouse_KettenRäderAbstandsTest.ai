@@ -1,0 +1,109 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (pipemouse_KettenRäderAbstandsTest.ai)
+%%BoundingBox: 5 5 248 92
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(0) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.7087 w 4 M []0 d
+0 D
+157.0478 26.7523 m
+157.0478 29.1789 155.0807 31.1460 152.6541 31.1460 c
+150.2275 31.1460 148.2604 29.1789 148.2604 26.7523 c
+148.2604 24.3258 150.2275 22.3586 152.6541 22.3586 c
+155.0807 22.3586 157.0478 24.3258 157.0478 26.7523 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.7087 w 4 M []0 d
+0 D
+87.3385 26.7523 m
+87.3385 29.1789 85.3714 31.1460 82.9448 31.1460 c
+80.5183 31.1460 78.5511 29.1789 78.5511 26.7523 c
+78.5511 24.3258 80.5183 22.3586 82.9448 22.3586 c
+85.3714 22.3586 87.3385 24.3258 87.3385 26.7523 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.7087 w 4 M []0 d
+0 D
+27.8110 69.2720 m
+27.8110 71.6986 25.8438 73.6657 23.4173 73.6657 c
+20.9907 73.6657 19.0236 71.6986 19.0236 69.2720 c
+19.0236 66.8455 20.9907 64.8783 23.4173 64.8783 c
+25.8438 64.8783 27.8110 66.8455 27.8110 69.2720 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.7087 w 4 M []0 d
+0 D
+17.7480 91.9492 m
+14.7408 91.9492 11.8568 90.7546 9.7304 88.6282 c
+7.6040 86.5018 6.4094 83.6178 6.4094 80.6106 c
+6.4094 75.8586 6.4094 71.1065 6.4094 66.3545 c
+6.4094 62.6927 8.1778 59.2563 11.1576 57.1279 c
+34.5927 40.3886 58.0278 23.6492 81.4629 6.9098 c
+132.9805 6.9098 184.4981 6.9098 236.0157 6.9098 c
+239.0229 6.9098 241.9069 8.1044 244.0332 10.2308 c
+246.1597 12.3572 247.3543 15.2412 247.3543 18.2484 c
+247.3543 39.0358 247.3543 59.8232 247.3543 80.6106 c
+247.3543 83.6178 246.1597 86.5018 244.0333 88.6282 c
+241.9069 90.7546 239.0229 91.9492 236.0157 91.9492 c
+163.2598 91.9492 90.5039 91.9492 17.7480 91.9492 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.7087 w 4 M []0 d
+0 D
+226.7570 26.7523 m
+226.7570 29.1789 224.7899 31.1460 222.3633 31.1460 c
+219.9368 31.1460 217.9696 29.1789 217.9696 26.7523 c
+217.9696 24.3258 219.9368 22.3586 222.3633 22.3586 c
+224.7899 22.3586 226.7570 24.3258 226.7570 26.7523 C
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
