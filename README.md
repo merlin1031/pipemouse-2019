@@ -16,7 +16,9 @@ Der Kettenstrang wird im 3D-Drucker aus PLA gedruckt. Als Verbinger zwischen den
 ![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_01.png)
 ![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_02.png)
 ![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_03.png)
-![PipeMouse 2019 - Zeichnung Kettenglied](/CAD/pipemouse_Kettenglied - Blatt1)
+
+Zeichungen von Kettenglied und Kettenrad ligen als PDF-Zeichnung im Verzeichnis /CAD/
+
 ### Fahrzeugwanne
 Die Fahrzeugwanne dient der Aufnahme der Laufräder und der Antriebs-Servos. Sie wird so gestaltet sein, dass sie möglichst viel Bodenfreiheit und eine Möglichkeit der Kettenspannung bieten wird.
 ### Steuerung
