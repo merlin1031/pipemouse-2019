@@ -8,14 +8,20 @@ Was ist "PipeMouse 2019"? im Prinzip ist das ein kleiner FPV-Rover mit Kettenant
 ![PipeMouse 2019 - Laufrad zur Unterstüzung der Laufkette](/images/small/pipemouse_Kettenrad_02.png)
 ![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kugellager8x3x4_01.png)
 
+Altenativer Ansatz für Kette mit Gummi-Pads. Aus Moosgummi werden die Pads gelasert und mit Kontaktkleber (z.B. Uhu Por oder Pattex auf den einzelnen Kettengliedern aufgeklebt).
+![PipeMouse 2019 - Simulation Kettenglieder mit Gummi-Pad](/images/small/pipemouse_Kettenglied_04.png)
+![PipeMouse 2019 - Gummi-Pad für Kettenglied ](/images/small/pipemouse_Kettenglied_05.png)
+![PipeMouse 2019 - Aussparung für Gummi-Pad in Kettenglied](/images/small/pipemouse_Kettenglied_06.png)
+
+
 ## Komponenten und Bauteile
 ### Antrieb
 Der Antrieb erfolgt durch zwei auf 360°-Betrieb umgebaute Mini-Servos der 8g-Klasse. Dadurch wird kein besonderer ESC für die Steuerung des Rovers benötigt. Die Steuerung von linker und rechter Kettenseite kann über einem in der Fernsteuerung progammierten Mischer erfolgen.
 ### Kettenstrang
 Der Kettenstrang wird im 3D-Drucker aus PLA gedruckt. Als Verbinger zwischen den einzelnen Kettengliedern kommen PLA-Reste mit einem Durchmesser von 1,75mm zum Einsatz. Widerhaken auf der Lauffläche den Kettengliedern ermöglichen einen sicheren Vortrieb auf rauhen Untergründen, oder an steilen Absätzen. Auf sehr glatten Untergründen werden sicherlich Probleme mit dem Vortrieb auftreten, was aber vernachlässigbar sein dürfte, da in der Wettbewerbs-Arena geeignete Werkstoffe als Fahruntergrund vorhanden sein werden.
-![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_01.png)
-![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_02.png)
-![PipeMouse 2019 - Kugellager 8x3x4 für die Laufräder](/images/small/pipemouse_Kettenglied_Test_03.png)
+![PipeMouse 2019 - Test Kette mit Baugruppenfeature Riemen/Kette (Aussenansicht)](/images/small/pipemouse_Kettenglied_Test_01.png)
+![PipeMouse 2019 - Test Kette mit Baugruppenfeature Riemen/Kette (Innenansicht)](/images/small/pipemouse_Kettenglied_Test_02.png)
+![PipeMouse 2019 - Test Kette mit Baugruppenfeature Riemen/Kette (Feature-Einstellungen)](/images/small/pipemouse_Kettenglied_Test_03.png)
 
 Zeichungen von Kettenglied und Kettenrad ligen als PDF-Zeichnung im Verzeichnis /CAD/
 
