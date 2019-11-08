@@ -1,0 +1,81 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (Laser_GummiPad.ai)
+%%BoundingBox: 19 19 27 30
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(0) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.7087 w 4 M []0 d
+0 D
+25.0517 26.5047 m
+24.9577 26.5047 24.8816 26.5808 24.8816 26.6748 c
+24.8816 27.5063 24.8816 28.3378 24.8816 29.1692 c
+24.8816 29.2632 24.8054 29.3393 24.7115 29.3393 c
+23.3698 29.3393 22.0280 29.3393 20.6863 29.3393 c
+20.5924 29.3393 20.5162 29.2632 20.5162 29.1692 c
+20.5162 28.5740 20.5162 27.9787 20.5162 27.3834 c
+20.5162 27.2895 20.5924 27.2133 20.6863 27.2133 c
+21.2343 27.2133 21.7824 27.2133 22.3304 27.2133 c
+22.4243 27.2133 22.5005 27.1372 22.5005 27.0433 c
+22.5005 25.7393 22.5005 24.4354 22.5005 23.1315 c
+22.5005 23.0375 22.4243 22.9614 22.3304 22.9614 c
+21.7824 22.9614 21.2343 22.9614 20.6863 22.9614 c
+20.5924 22.9614 20.5162 22.8852 20.5162 22.7913 c
+20.5162 22.1960 20.5162 21.6007 20.5162 21.0055 c
+20.5162 20.9115 20.5924 20.8354 20.6863 20.8354 c
+22.0280 20.8354 23.3698 20.8354 24.7115 20.8354 c
+24.8054 20.8354 24.8816 20.9115 24.8816 21.0055 c
+24.8816 21.8370 24.8816 22.6685 24.8816 23.5000 c
+24.8816 23.5939 24.9577 23.6700 25.0517 23.6700 c
+25.5619 23.6700 26.0721 23.6700 26.5824 23.6700 c
+26.6763 23.6700 26.7525 23.7462 26.7525 23.8401 c
+26.7525 24.6716 26.7525 25.5031 26.7525 26.3346 c
+26.7525 26.4285 26.6763 26.5047 26.5824 26.5047 c
+26.0721 26.5047 25.5619 26.5047 25.0517 26.5047 C
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
